@@ -1,0 +1,3 @@
+To Run pubsub.py 
+
+`python pubsub.py --endpoint a1elv3zi1wh3o2-ats.iot.ap-south-1.amazonaws.com --root-ca certs/AmazonRootCA1.pem --cert certs/certificate.pem.crt --key certs/private.pem.key`
